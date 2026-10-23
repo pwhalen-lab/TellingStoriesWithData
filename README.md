@@ -3,7 +3,7 @@
 
 # TSWD-portfolio
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
+- Web page URL: https://pwhalen-lab.github.io/TellingStoriesWithData/
 - This repository: https://github.com/pwhalen-lab/TellingStoriesWithData/
 
 # Portfolio
@@ -20,7 +20,7 @@ Throughout this course, I am eager to learn all tips and tricks surrounding data
 3. How to create a useful porfolio
 
 # Portfolio
-To be edited later...
+To be edited later as we begin to complete course assignments...
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
