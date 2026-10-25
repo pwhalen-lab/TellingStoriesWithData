@@ -18,7 +18,7 @@ Some of my career goals are to focus on social and education policy, addressing 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my work for this course will go.
 
-| [home page](https://pwhalen-lab.github.io/TellingStoriesWithData/) | [critique by design](critique_by_design)  | [visualizing government debt](visualizing_govt_debt)| [final project I](final_project_part_1) | [final project II](final_project_part_2) | [final project III](https://pwhalen-lab.github.io/TellingStoriesWithData/final_project_part_3) |
+| [home page](https://pwhalen-lab.github.io/TellingStoriesWithData/) | [critique by design](critique_by_design)  | [visualizing government debt](visualizing_govt_debt)| [final project I](final_project_part_1) | [final project II](final_project_part_2) | [final project III](https://pwhalen-lab.github.io/TellingStoriesWithData/final_project_part_3.md) |
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
