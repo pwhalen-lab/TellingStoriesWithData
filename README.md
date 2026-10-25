@@ -1,16 +1,10 @@
 # TellingStoriesWithData
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
-# TSWD-portfolio
 
 - Web page URL: https://pwhalen-lab.github.io/TellingStoriesWithData/
 - This repository: https://github.com/pwhalen-lab/TellingStoriesWithData/
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my work for this course will go.
-
 # About me
-Hi! I am currently a second-year graduate student at Heinz College pursuing a Master of Public Policy Management with a concentration in Data Analytics. I have experience working in the non-profit sector as a Director of Programs. There I learned some initial knowledge around collecting, cleaning, managing and analyzing data. This past summer I worked as a Data Intern for the Pittsburgh Public Schools' Data, Research, Evaluation, and Assessment team. Some of my career goals are to focus on social and education policy, addressing the systemic barriers and inequities that contribute to gender and racial wealth gaps and education gaps. I want to leverage data-driven solutions to create more equitable education and employment opportunities.
+Hi! I'm Paige (she/her), and I am currently a second-year graduate student at Heinz College pursuing a Master of Public Policy Management with a concentration in Data Analytics. I have experience working in the non-profit sector as a Director of Programs. There I learned some initial knowledge around collecting, cleaning, managing and analyzing data. This past summer I worked as a Data Intern for the Pittsburgh Public Schools' Data, Research, Evaluation, and Assessment team. 
 
 # What I hope to learn
 Throughout this course, I am eager to learn all tips and tricks surrounding data visualizations and communication. Specifically: 
@@ -19,8 +13,12 @@ Throughout this course, I am eager to learn all tips and tricks surrounding data
 2. Creative data visualization techniques that pull audience members in
 3. How to create a useful porfolio
 
+Some of my career goals are to focus on social and education policy, addressing the systemic barriers and inequities that contribute to gender and racial wealth gaps and education gaps. I want to leverage data-driven solutions to create more equitable education and employment opportunities.
+
 # Portfolio
-To be edited later as we begin to complete course assignments...
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my work for this course will go.
+
+| [home page](https://pwhalen-lab.github.io/TellingStoriesWithData/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
