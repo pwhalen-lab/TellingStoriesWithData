@@ -4,7 +4,7 @@
 - This repository: https://github.com/pwhalen-lab/TellingStoriesWithData/
 
 # About me
-Hi! I'm Paige (she/her), and I am currently a second-year graduate student at Heinz College pursuing a Master of Public Policy Management with a concentration in Data Analytics. I have experience working in the non-profit sector as a Director of Programs. There I learned some initial knowledge around collecting, cleaning, managing and analyzing data. This past summer I worked as a Data Intern for the Pittsburgh Public Schools' Data, Research, Evaluation, and Assessment team. 
+Hi! I'm Paige (she/her), and I am currently a second-year graduate student at Heinz College pursuing a Master of Public Policy Management with a concentration in Data Analytics. Before Heinz, I gained experience working in the non-profit sector managing Apprenticeship programs for Boston Public School youth. During my time with the nonprofit, I learned initial skills around collecting, cleaning, managing and analyzing data. This past summer I worked as a Data Intern for the Pittsburgh Public Schools' Data, Research, Evaluation, and Assessment team. 
 
 # What I hope to learn
 Throughout this course, I am eager to learn all tips and tricks surrounding data visualizations and communication. Specifically: 
@@ -20,21 +20,8 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 
 | [home page](https://pwhalen-lab.github.io/TellingStoriesWithData/) | [critique by design](https://pwhalen-lab.github.io/TellingStoriesWithData/critique_by_design.md)  | [visualizing government debt](https://pwhalen-lab.github.io/TellingStoriesWithData/visualizing_govt_debt.md)| [final project I](https://pwhalen-lab.github.io/TellingStoriesWithData/final_project_part_1.md) | [final project II](https://pwhalen-lab.github.io/TellingStoriesWithData/final_project_part_2.md) | [final project III](https://pwhalen-lab.github.io/TellingStoriesWithData/final_project_part_3.md) |
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
-
-## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
-
+#TO BE CONTINUED LATER
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
 
