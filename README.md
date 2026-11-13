@@ -1,3 +1,8 @@
+# Portfolio
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my work for this course will go.
+
+| [home page](https://pwhalen-lab.github.io/TellingStoriesWithData/) | [trust in news](TrustinNews.md) | [critique by design](critique_by_design.md)  | [visualizing government debt](visualizing_govt_debt.md)| [final project I](final_project_part_1.md) | [final project II](final_project_part_2.md) | [final project III](final_project_part_3.md) |
+
 # TellingStoriesWithData
 
 - Web page URL: https://pwhalen-lab.github.io/TellingStoriesWithData/
@@ -14,11 +19,6 @@ Throughout this course, I am eager to learn all tips and tricks surrounding data
 3. How to create a useful porfolio
 
 Some of my career goals are to focus on social and education policy, addressing the systemic barriers and inequities that contribute to gender and racial wealth gaps and education gaps. I want to leverage data-driven solutions to create more equitable education and employment opportunities.
-
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my work for this course will go.
-
-| [home page](https://pwhalen-lab.github.io/TellingStoriesWithData/) | [trust in news](TrustinNews.md) | [critique by design](critique_by_design.md)  | [visualizing government debt](visualizing_govt_debt.md)| [final project I](final_project_part_1.md) | [final project II](final_project_part_2.md) | [final project III](final_project_part_3.md) |
 
 ## References
 _I used Telling Stories with Data Template to help build this page._
