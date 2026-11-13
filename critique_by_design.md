@@ -11,7 +11,7 @@ Overall, the visuals are straightforward by keeping the color scheme simple and 
 
 **Step by Step Methods for Creating New Design**
 
-After selecting the Best Tacos in San Diego design, I followed Stephen Few’s Data Visualization Effectiveness Profile (https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) to help me in critiquing the design. I found myself scoring the completeness, perceptibility, truthfulness and engagement low. The scores were low because of the misleading visualizations, the inclusion of the dataset summary, the lack of interactive features and story being told, and because there were a lot of visualizations included. The aesthetics, usefulness, and intuitiveness received average scores. This was because the aesthetics mostly followed some of the lessons we have learned in keeping the graphs simple and straightforward. They had minimal colors and clear descriptive titles. 
+After selecting the Best Tacos in San Diego design, I followed Stephen Few’s Data Visualization Effectiveness Profile to help me in critiquing the design. I found myself scoring the completeness, perceptibility, truthfulness and engagement low. The scores were low because of the misleading visualizations, the inclusion of the dataset summary, the lack of interactive features and story being told, and because there were a lot of visualizations included. The aesthetics, usefulness, and intuitiveness received average scores. This was because the aesthetics mostly followed some of the lessons we have learned in keeping the graphs simple and straightforward. They had minimal colors and clear descriptive titles. 
 
 The critique exercise was useful, because I found myself starting to understand what I did not want to include in my draft and what I did want to include. I went to Tableau to create my first draft. There, I chose to select a map to visualize the data, because if I were a resident or visiting San Diego, I want to quickly understand how and where I can find the best tacos in the city. 
 
@@ -47,3 +47,8 @@ I made sure to keep the review snippets in the highlights when you toggle over t
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+
+References:
+No AI was used to create this.
+MakeOverMonday Link: https://makeovermonday.vercel.app/dataset/2026w18-best-tacos-in-san-diego
+Stephen Few's Data Visualization Effectiveness Profile Link: https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
