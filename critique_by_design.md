@@ -48,7 +48,10 @@ I made sure to keep the review snippets in the highlights when you toggle over t
 </script>
 
 
-References:
-No AI was used to create this.
+**References:**
+
 MakeOverMonday Link: https://makeovermonday.vercel.app/dataset/2026w18-best-tacos-in-san-diego
+
 Stephen Few's Data Visualization Effectiveness Profile Link: https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
+
+*No AI was used to create this.*
