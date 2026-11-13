@@ -1,6 +1,7 @@
 **Critique by Design**
 
 **Design Selection:**
+
 The design I decided to critique from Make Over Monday was the 
 "Best Tacos in San Diego": https://makeovermonday.vercel.app/dataset/2026w18-best-tacos-in-san-diego
 
@@ -9,14 +10,13 @@ I chose this because I love reading food reviews and am always curious to find t
 Overall, the visuals are straightforward by keeping the color scheme simple and including titles that quickly describe what you’re looking at. One of the visuals was uninformative; there was a dataset summary statistic included that didn't seem to be telling the audience anything intentional. Another visual was misleading; the “Distribution of Customer Review Scores” graph does not accurately desribe the dataset that was linked. The original design doesn’t include any information that makes me more curious or interested in the topic. I felt interested in creating a visual that hopefully offers more of an interaction from the audience with the dataset provided. 
 
 **Step by Step Methods for Creating New Design**
+
 After selecting the Best Tacos in San Diego design, I followed Stephen Few’s Data Visualization Effectiveness Profile (https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) to help me in critiquing the design. I found myself scoring the completeness, perceptibility, truthfulness and engagement low. The scores were low because of the misleading visualizations, the inclusion of the dataset summary, the lack of interactive features and story being told, and because there were a lot of visualizations included. The aesthetics, usefulness, and intuitiveness received average scores. This was because the aesthetics mostly followed some of the lessons we have learned in keeping the graphs simple and straightforward. They had minimal colors and clear descriptive titles. 
 
 The critique exercise was useful, because I found myself starting to understand what I did not want to include in my draft and what I did want to include. I went to Tableau to create my first draft. There, I chose to select a map to visualize the data, because if I were a resident or visiting San Diego, I want to quickly understand how and where I can find the best tacos in the city. 
 
 **Here is the first draft of my design:**
 ![Critique By Design Draft](https://github.com/pwhalen-lab/TellingStoriesWithData/blob/main/CritiqueByDesign_draft.png)
-
-<img src="CritiqueByDesign_draft.png" width="200"/>
 
 I met with classmates to get their feedback on my initial design ideas. The following table is a breakdown of key takeaways from our conversations. 
 
@@ -35,7 +35,7 @@ I also heard feedback that the source of the data was still unclear, so I made s
 
 I made sure to keep the review snippets in the highlights when you toggle over the taco place, because I received a lot of positive feedback that those reviews were useful. 
 
-Check out my final design below:
+**Check out my final design below:**
 
 <div class='tableauPlaceholder' id='viz1794515871859' style='position: relative'><noscript><a href='#'><img alt='Highest-Rated Tacos in San DiegoAccording to a Local Food ExpertSource: https:&#47;&#47;sandiego.eater.com&#47;maps&#47;san-diego-best-local-tacos ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Be&#47;BestTaco_MakeoverMonday&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BestTaco_MakeoverMonday&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Be&#47;BestTaco_MakeoverMonday&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
