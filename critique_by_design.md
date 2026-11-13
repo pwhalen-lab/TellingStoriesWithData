@@ -9,6 +9,8 @@ I chose this because I love reading food reviews and am always curious to find t
 
 Overall, the visuals are straightforward by keeping the color scheme simple and including titles that quickly describe what you’re looking at. One of the visuals was uninformative; there was a dataset summary statistic included that didn't seem to be telling the audience anything intentional. Another visual was misleading; the “Distribution of Customer Review Scores” graph does not accurately desribe the dataset that was linked. The original design doesn’t include any information that makes me more curious or interested in the topic. I felt interested in creating a visual that hopefully offers more of an interaction from the audience with the dataset provided. 
 
+The dataset used from Make Over Monday is an excel sheet with 50 San Diego Taco places, a review score given to them by a food critic, latitude, longitude, and a review snippet. 
+
 **Step by Step Methods for Creating New Design**
 
 After selecting the Best Tacos in San Diego design, I followed Stephen Few’s Data Visualization Effectiveness Profile to help me in critiquing the design. I found myself scoring the completeness, perceptibility, truthfulness and engagement low. The scores were low because of the misleading visualizations, the inclusion of the dataset summary, the lack of interactive features and story being told, and because there were a lot of visualizations included. The aesthetics, usefulness, and intuitiveness received average scores. This was because the aesthetics mostly followed some of the lessons we have learned in keeping the graphs simple and straightforward. They had minimal colors and clear descriptive titles. 
