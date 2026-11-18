@@ -9,12 +9,18 @@
 
 **Initial Sketches**
 ![SourceOfFoodWaste](https://github.io/pwhalen-lab/TellingStoriesWithData/SourceOfFoodWaste.png)
+Data Source: https://refed.org/downloads/refed-us-food-waste-report-2025.pdf
 
-*include other images*
+![USFoodSupply](https://github.io/pwhalen-lab/TellingStoriesWithData/USFoodSupply.png)
+Data Source: https://refed.org/downloads/refed-us-food-waste-report-2025.pdf
+
+![CompostMapPittsburgh](https://github.io/pwhalen-lab/TellingStoriesWithData/CompostMapPittsburgh.png)
+Data Source: https://data.wprdc.org/dataset/grow-pittsburgh-food-gardens/resource/dbdfcb3e-8fa5-4468-9b05-f69562798f7a
 
 **Methods**
 My plan is to use Tableau for all data visualizations regarding food waste and solutions to food waste. I will use ArcGis to create the compost location map.
 For the final presentation of my story and data visualizations I will create a shorthand page. 
 
 **Data Sources**
+
 
