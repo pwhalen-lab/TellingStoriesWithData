@@ -19,6 +19,7 @@ The critique exercise was useful, because I found myself starting to understand 
 
 **Here is the first draft of my design:**
 ![Critique By Design Draft](https://github.com/pwhalen-lab/TellingStoriesWithData/blob/main/CritiqueByDesign_draft.png)
+![Critique_By_Design_Draft](https://github.io/pwhalen-lab/TellingStoriesWithData/CritiqueByDesign_draft.png)
 
 I met with classmates to get their feedback on my initial design ideas. The following table is a breakdown of key takeaways from our conversations. 
 
