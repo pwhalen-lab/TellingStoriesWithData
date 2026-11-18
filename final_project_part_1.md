@@ -8,17 +8,21 @@
 
 
 **Initial Sketches**
-![SourceOfFoodWaste](https://github.io/pwhalen-lab/TellingStoriesWithData/SourceOfFoodWaste.png)
+
+**Source of Food Waste** 
+
 <img src="SourceOfFoodWaste.png" width="200"/>
 
 Data Source: https://refed.org/downloads/refed-us-food-waste-report-2025.pdf
 
-![USFoodSupply](https://github.io/pwhalen-lab/TellingStoriesWithData/)
+**Us Food Supply**
+
 <img src="USFoodSupply.png" width="200"/>
 
 Data Source: https://refed.org/downloads/refed-us-food-waste-report-2025.pdf
 
-![CompostMapPittsburgh](https://github.io/pwhalen-lab/TellingStoriesWithData/CompostMapPittsburgh.png)
+**Compost Map Pittsburgh**
+
 <img src="CompostMapPittsburgh.png" width="200"/>
 
 Data Source: https://data.wprdc.org/dataset/grow-pittsburgh-food-gardens/resource/dbdfcb3e-8fa5-4468-9b05-f69562798f7a
