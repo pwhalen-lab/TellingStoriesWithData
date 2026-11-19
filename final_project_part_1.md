@@ -2,9 +2,9 @@
 
 ## Outline
 
-For this project, I want to show how much food waste is generated  (Nationwide, Statewide, and locally). There are different solutions to this issue like source reduction, donating extra food, feeding animals, industrial uses, and composting (City of Pittsburgh, 2025).  
+For this project, I want to show how much food waste is generated (nationwide, statewide, and locally). There are different solutions to this issue like source reduction, donating extra food, feeding animals, industrial uses, and composting (City of Pittsburgh, 2025). Pittsburgh's 412 Food Rescue organization works to donate food surplus in Pittsburgh and in 2024 they redistributed 4.7 million pounds of food (412 Food Rescue, 2024.) There are many other efforts that the city is doing to combat food waste, but there is a lot to be done. 
 
-While anyone can practice composting, there are some barriers to participation. In Pittsburgh, awareness of and access to composting practices are limited.  All someone needs to do to get started is create a bin to collect food scraps in, separate from trash and recycling. While some people choose to keep these scraps to create soil for their own gardens, some choose to drop them off at local gardens or composting sites. Throughout Pittsburgh, the compost drop off sites are mostly limited to farmers markets, and there a few options for paid pick-up services. On CMU’s campus, there are drop off sites; however, these are not always correctly utilized. Oftentimes I will see trash that does not belong in the compost bins. 
+While anyone can practice composting, there are some barriers to participation. In Pittsburgh, awareness of and access to composting practices seem limited. To get started with composting, one needs to create a bin to collect food scraps in, and separate that from trash and recycling. While some people choose to keep their scraps to create soil for their own gardens, some choose to drop them off at local gardens or composting sites. Throughout Pittsburgh, the compost drop off sites are mostly limited to farmers markets, and there a few options for paid pick-up services. On CMU’s campus, there are drop off sites; however, these are not always correctly utilized. Oftentimes I will see trash that does not belong in the compost bins. 
 
 My call to action would be for students to make an effort to reduce their own food waste, and support composting practices where possible. These efforts aim to achieve less landfill waste, lower methane emissions, and healthier soil.
 
@@ -39,6 +39,10 @@ My plan is to use Tableau for all data visualizations regarding food waste and s
 For the final presentation of my story and data visualizations I will create a shorthand page. 
 
 ## Data Sources
+412 Food Rescue. (2024). 2024 Impact Report. https://412foodrescue.org/wp-content/uploads/2025/05/2024-Impact-Report-412-Food-Rescue.pdf
+
+This source from 412 Food Rescue provides data on how much food donation in Pittsburgh has made an impact. While most of my data and story plans to focus on composting, I did want to mention and provide data on an important alternative solution to food waste. 
+
 City of Pittsburgh. (2026). Farmers Market Overview. https://www.pittsburghpa.gov/Recreation-Events/Special-Events/Farmers-Markets 
 
 With the data from the City of Pittsburgh Farmers Market Overview, I plan to pull the locations of the farmers markets into a spreadsheet with latitude and longitude to create a map with this data. 
