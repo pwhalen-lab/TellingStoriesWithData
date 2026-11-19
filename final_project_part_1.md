@@ -2,9 +2,11 @@
 
 ## Outline
 
-  For this project, I want to show how much food waste is generated  (Nationwide, Statewide, and locally). There are different solutions to this issue like source reduction, donating extra food, feeding animals, industrial uses, and composting (City of Pittsburgh, 2025).  
-  While anyone can practice composting, there are some barriers to participation. Awareness of and access to composting practices are limited.  All someone needs to do to get started is create a bin, separate from trash and recycling, to collect food scraps in. While some people choose to keep these scraps to create soil for their own gardens, some choose to drop them off at local gardens or composting sites. Throughout Pittsburgh, the compost drop off sites are mostly limited to farmers markets. These locations are seasonal. On CMU’s campus, there are drop off sites; however, these are not always correctly utilized. 
-  My call to action would be for students to make an effort to reduce food waste,  and support composting practices where possible. These efforts aim to achieve less landfill waste, lower methane emissions, and healthier soil.
+For this project, I want to show how much food waste is generated  (Nationwide, Statewide, and locally). There are different solutions to this issue like source reduction, donating extra food, feeding animals, industrial uses, and composting (City of Pittsburgh, 2025).  
+
+While anyone can practice composting, there are some barriers to participation. In Pittsburgh, awareness of and access to composting practices are limited.  All someone needs to do to get started is create a bin to collect food scraps in, separate from trash and recycling. While some people choose to keep these scraps to create soil for their own gardens, some choose to drop them off at local gardens or composting sites. Throughout Pittsburgh, the compost drop off sites are mostly limited to farmers markets, and there a few options for paid pick-up services. On CMU’s campus, there are drop off sites; however, these are not always correctly utilized. Oftentimes I will see trash that does not belong in the compost bins. 
+
+My call to action would be for students to make an effort to reduce their own food waste, and support composting practices where possible. These efforts aim to achieve less landfill waste, lower methane emissions, and healthier soil.
 
 
 ## Initial Sketches
@@ -27,12 +29,16 @@ Data Source: https://refed.org/downloads/refed-us-food-waste-report-2025.pdf
 
 Data Source: https://data.wprdc.org/dataset/grow-pittsburgh-food-gardens/resource/dbdfcb3e-8fa5-4468-9b05-f69562798f7a
 
+**Picture of Compost Bin at CMU**
+
+*I plan to take a picture on campus of a compost bin. Potentially capturing one that is being misused, but hopefully I won't be able to find that :)*
+
 ## Methods
-My plan is to use Tableau for all data visualizations regarding food waste and solutions to food waste. I will use ArcGis to create the compost location map.
+My plan is to use Tableau for all data visualizations regarding food waste and solutions to food waste. I will also use it for the map I create that shows the compost drop off sites. 
+
 For the final presentation of my story and data visualizations I will create a shorthand page. 
 
 ## Data Sources
-
 City of Pittsburgh. (2026). Farmers Market Overview. https://www.pittsburghpa.gov/Recreation-Events/Special-Events/Farmers-Markets 
 
 With the data from the City of Pittsburgh Farmers Market Overview, I plan to pull the locations of the farmers markets into a spreadsheet with latitude and longitude to create a map with this data. 
