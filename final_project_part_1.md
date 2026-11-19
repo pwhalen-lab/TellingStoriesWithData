@@ -33,4 +33,15 @@ For the final presentation of my story and data visualizations I will create a s
 
 ## Data Sources
 
+City of Pittsburgh. (2026). Farmers Market Overview. https://www.pittsburghpa.gov/Recreation-Events/Special-Events/Farmers-Markets 
+
+With the data from the City of Pittsburgh Farmers Market Overview, I plan to pull the locations of the farmers markets into a spreadsheet with latitude and longitude to create a map with this data. 
+
+City of Pittsburgh. (2025). Food Waste. https://www.pittsburghpa.gov/Business-Development/City-Planning/Sustainability/Food-Planning/Food-Waste
+
+The data from the City of Pittsburgh is being used to communicate to the audience the different options for reducing food waste. It is a ranked order of most preferred to least preferred, so I will plan to create a bar graph for this visualization. 
+
+ReFED (2025). From Surplus to Solutions. US Food Waste Report. Refed-us-food-waste-report-2025.pdf
+
+The ReFED food waste report data will be used to help the audience understand how much food waste is produced in the US, and how individual households play a role in this waste. For visualizations, I will do a histogram for one and a large number combined with a pie chart for the other. This data source also offers stats on progress and trends in the U.S., so I plan to utilize that data to help show how it’s possible to move towards reducing waste. 
 
