@@ -1,9 +1,9 @@
-* Draft of my Story: *
+# Draft of my Story: 
 Here is a link to my shorthand page! 
 https://preview.shorthand.com/ZcZlCycpsdJmc6pz/responsive/desktop 
 
 
-* User Research and Interviews *
+# User Research and Interviews 
 After developing a first draft of my final project idea, I shared my draft with three different individuals. Since my target audience for my project are CMU students, I chose to interview three current students (MISM, MSPPM-DA, and MAM). I wanted different perspectives, so two of the students I interviewed are part of the Telling Stories with Data class, in two different graduate programs. The other student I interviewed is not part of the class, but I thought this was an important perspective because they are still part of my target audience and have potentially learned different skills when it comes to data visualizations. 
 
 My script asked questions that gave me insight into what worked well, what didn’t work, what made them curious, what they wanted to see more of, and what left them confused or unclear. I started by giving them an overview of the project, and then shared the draft visuals as I went through the key pieces of information. Afterwards, I asked them the questions above.
