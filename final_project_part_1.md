@@ -1,3 +1,5 @@
+| [home page](https://pwhalen-lab.github.io/TellingStoriesWithData/) | [trust in news](TrustinNews.md) | [critique by design](critique_by_design.md)  | [visualizing government debt](visualizing_govt_debt.md)| [final project I](final_project_part_1.md) | [final project II](final_project_part_2.md) | [final project III](final_project_part_3.md) |
+
 **Part 1 Final Project**
 
 ## Outline
