@@ -1,3 +1,5 @@
+| [home page](https://pwhalen-lab.github.io/TellingStoriesWithData/) | [trust in news](TrustinNews.md) | [critique by design](critique_by_design.md)  | [visualizing government debt](visualizing_govt_debt.md)| [final project I](final_project_part_1.md) | [final project II](final_project_part_2.md) | [final project III](final_project_part_3.md) |
+
 # Draft of my Story: 
 Here is a link to my shorthand page! 
 [https://preview.shorthand.com/ZcZlCycpsdJmc6pz/responsive/desktop] (https://preview.shorthand.com/ZcZlCycpsdJmc6pz/responsive/desktop)
