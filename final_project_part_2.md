@@ -1,6 +1,6 @@
 # Draft of my Story: 
 Here is a link to my shorthand page! 
-https://preview.shorthand.com/ZcZlCycpsdJmc6pz/responsive/desktop 
+[https://preview.shorthand.com/ZcZlCycpsdJmc6pz/responsive/desktop] (https://preview.shorthand.com/ZcZlCycpsdJmc6pz/responsive/desktop)
 
 
 # User Research and Interviews 
