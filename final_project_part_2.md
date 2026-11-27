@@ -6,6 +6,7 @@
 Here is a link to my shorthand page! 
 
 https://preview.shorthand.com/ZcZlCycpsdJmc6pz/responsive/desktop
+https://carnegiemellon.shorthandstories.com/2bf95e0b-013f-4034-8db3-9e2cc3a402b5/index.html
 
 
 # User Research and Interviews 
